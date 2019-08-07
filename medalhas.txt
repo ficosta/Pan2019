@@ -1,0 +1,41 @@
+Antígua e Barbuda,0,0,1
+Argentina,15,16,17
+Aruba,0,0,0
+Bahamas,0,0,0
+Barbados,0,0,0
+Belize,0,0,0
+Bermudas,0,0,0
+Bolívia,0,1,1
+Brasil,23,19,37
+Canadá,24,38,30
+Chile,5,9,8
+Colômbia,16,12,18
+Costa Rica,0,0,1
+Cuba,14,12,13
+Dominica,0,0,0
+El Salvador,0,0,1
+Equador,4,6,8
+Estados Unidos,59,47,41
+Granada,0,0,0
+Guatemala,1,3,4
+Guiana,0,0,0
+Haiti,0,0,0
+Honduras,0,0,0
+Ilhas Cayman,0,0,0
+Ilhas Virgens Americanas,0,0,0
+Ilhas Virgens Britânicas,1,0,0
+Jamaica,1,2,2
+México,22,19,37
+Nicarágua,0,0,3
+Panamá,0,0,0
+Paraguai,0,1,1
+Porto Rico,3,2,6
+República Dominicana,4,6,10
+Santa Lúcia,0,0,0
+São Cristóvão e Nevis,0,0,0
+São Vicente e Granadinas,0,0,0
+Suriname,0,0,0
+Trinidad e Tobago,2,1,1
+Uruguai,0,1,1
+Venezuela,3,3,7
+Peru,7,6,10
